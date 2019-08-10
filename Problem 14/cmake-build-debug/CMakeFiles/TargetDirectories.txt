@@ -1,0 +1,3 @@
+/media/tran/ハンム人/Codes/Algorithms/Problem 14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/tran/ハンム人/Codes/Algorithms/Problem 14/cmake-build-debug/CMakeFiles/Problem_14.dir
+/media/tran/ハンム人/Codes/Algorithms/Problem 14/cmake-build-debug/CMakeFiles/edit_cache.dir

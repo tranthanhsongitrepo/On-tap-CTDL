@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/tran/ハンム人/Codes/Algorithms/Problem 5/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Problem_71.dir/main.cpp.o  -o Problem_71 

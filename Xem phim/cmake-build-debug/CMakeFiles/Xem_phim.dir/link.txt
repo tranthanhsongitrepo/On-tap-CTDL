@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Xem_phim.dir/main.cpp.o  -o Xem_phim 

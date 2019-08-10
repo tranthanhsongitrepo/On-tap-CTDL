@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Problem_52.dir/main.cpp.o  -o Problem_52 

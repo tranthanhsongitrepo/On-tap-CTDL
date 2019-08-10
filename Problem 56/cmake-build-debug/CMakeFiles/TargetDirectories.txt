@@ -1,0 +1,3 @@
+/media/tran/ハンム人/Codes/On tap/Problem 56/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/tran/ハンム人/Codes/On tap/Problem 56/cmake-build-debug/CMakeFiles/Problem_56.dir
+/media/tran/ハンム人/Codes/On tap/Problem 56/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/tran/ハンム人/Codes/On tap/Problem 113/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+climits
+-
+
